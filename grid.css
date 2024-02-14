@@ -58,15 +58,33 @@ body {
     margin-top: 10px;
     text-decoration: none;
     color: #000000;
-    padding: 8px 15px;
+    padding: 8px 15px 8px 15px;
+    border-radius: 10px;
 }
 
-/*.inside-link__2 {
+.inside-link__1 {
     background-color: mediumslateblue;
-}*/
+}
+
+.col_1 {
+    background-color: rgba(0, 139, 139, 0.81);
+}
+
+.col_2 {
+    background-color:  #F2E3DB;
+}
+
+.col_3 {
+    background-color:  #ffcf81e2;
+}
+
+.inside-link__3 {
+    background-color: #eee;
+}
+
 
 .dirty {
-    background-color: aqua;
+    /*background-color: aqua;*/
     display: inline-block;
     width: 55%;
     height: 20px;
